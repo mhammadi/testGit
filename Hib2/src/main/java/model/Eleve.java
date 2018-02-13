@@ -21,6 +21,7 @@ public class Eleve {
 
 	public void setId(int id) {
 		this.id = id;
+		
 	}
 
 	public String getNom() {
